@@ -28,21 +28,21 @@
         {
             "label": "Components",
             "content": {
-            "toolbox": {
-                "kind": "flyoutToolbox",
-                "contents": [
-                    {
-                        "kind": "block",
-                        "type": "place_terminate_gpio"
-                    },
-                    {
-                        "kind": "block",
-                        "type": "place_terminate_uart"
-                    }
-                ]
-            },
-            "workspace": {},
-            "code": ""
+                "toolbox": {
+                    "kind": "flyoutToolbox",
+                    "contents": [
+                        {
+                            "kind": "block",
+                            "type": "place_terminate_gpio"
+                        },
+                        {
+                            "kind": "block",
+                            "type": "place_terminate_uart"
+                        }
+                    ]
+                },
+                "workspace": {},
+                "code": ""
             }
         },
         {
